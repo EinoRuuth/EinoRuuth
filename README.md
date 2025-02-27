@@ -1,6 +1,6 @@
 <h2 align="center">Hello! Welcome to my GitHub profile</h2>
 
-<p align="center"><img align="center" width="30" src="https://cdn.discordapp.com/attachments/432913419331436546/1343556899584344084/flag-finland_1f1eb-1f1ee.png?ex=67bdb45e&is=67bc62de&hm=7e776641ff61514659d59b6808cf67f98fae5bea15eb5005193b3e9b7c5e9b63&"> I am currently studying Software at Metropolia</p>
+<p align="center">I am currently studying Software at Metropolia</p>
 
 [![LinkedIn: EinoRuuth](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/einoruuth/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/262947400161689601)
