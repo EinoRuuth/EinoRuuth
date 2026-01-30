@@ -17,8 +17,3 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://github.com/EinoRuuth)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://github.com/EinoRuuth)
 [![EinoRuuth](https://img.shields.io/github/followers/EinoRuuth?label=follow&style=social)](https://github.com/EinoRuuth)
-
-<p></p>
-
-<img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=EinoRuuth&ring_color=e3b21a&show_icons=true&theme=gruvbox&show=prs_merged,prs_merged_percentage"/>
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=EinoRuuth&layout=compact&theme=gruvbox"/>
